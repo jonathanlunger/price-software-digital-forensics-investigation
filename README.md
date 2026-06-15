@@ -36,10 +36,6 @@ The examination focused on determining whether:
 - Evidence correlation
 - Formal forensic reporting
 
-## Report
-
-[View the full investigation report](Price_Software_Digital_Forensics_Investigation.pdf)
-
 ## Notice
 
 This repository documents a simulated digital forensic case study. The names, systems, evidence, and events are part of a controlled training scenario.
